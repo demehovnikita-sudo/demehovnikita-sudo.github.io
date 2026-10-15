@@ -1,0 +1,362 @@
+{
+  "ru": {
+    "title": "Политика конфиденциальности",
+    "updated": "Дата последнего обновления: 15 октября 2026 г.",
+    "intro": "Настоящая Политика конфиденциальности описывает порядок обработки информации при использовании мобильных приложений, разработанных Самозанятым Демеховым Никитой Вячеславовичем (далее — «Разработчик»).",
+    "sections": [
+      {
+        "title": "1. Общие положения",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Разработчик уважает конфиденциальность пользователей и стремится минимизировать сбор данных."
+          },
+          {
+            "type": "paragraph",
+            "text": "Если иное прямо не указано в конкретном приложении, Разработчик самостоятельно не собирает и не хранит такие персональные данные, как имя, адрес, номер телефона, данные банковских карт или иные сведения, позволяющие непосредственно идентифицировать пользователя."
+          }
+        ]
+      },
+      {
+        "title": "2. Локальные данные приложения",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Некоторые приложения могут сохранять на устройстве пользователя данные, необходимые для работы приложения, например:"
+          },
+          {
+            "type": "bullet",
+            "text": "настройки;"
+          },
+          {
+            "type": "bullet",
+            "text": "прогресс;"
+          },
+          {
+            "type": "bullet",
+            "text": "историю действий;"
+          },
+          {
+            "type": "bullet",
+            "text": "избранные элементы;"
+          },
+          {
+            "type": "bullet",
+            "text": "результаты тестов;"
+          },
+          {
+            "type": "bullet",
+            "text": "иные локальные данные приложения."
+          },
+          {
+            "type": "paragraph",
+            "text": "Такая информация хранится на устройстве пользователя и, если функционалом приложения не предусмотрено иное, не передаётся Разработчику."
+          }
+        ]
+      },
+      {
+        "title": "3. Рекламные сервисы",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "В приложениях может использоваться Yandex Mobile Ads SDK / Рекламная сеть Яндекса для показа рекламы."
+          },
+          {
+            "type": "paragraph",
+            "text": "Рекламный SDK может автоматически обрабатывать техническую информацию, необходимую для показа, настройки и оценки эффективности рекламы. В частности, при наличии соответствующих разрешений может использоваться рекламный идентификатор устройства и иные идентификаторы устройства. Яндекс Реклама"
+          },
+          {
+            "type": "paragraph",
+            "text": "Такая обработка выполняется непосредственно сторонним сервисом в соответствии с его собственными правилами и политиками."
+          },
+          {
+            "type": "paragraph",
+            "text": "Разработчик не получает доступ к содержимому личных сообщений пользователя, контактам, фотографиям, документам или другим личным данным пользователя через Yandex Mobile Ads SDK в его стандартной конфигурации. Яндекс Реклама"
+          }
+        ]
+      },
+      {
+        "title": "4. Цели использования информации",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Информация может использоваться для:"
+          },
+          {
+            "type": "bullet",
+            "text": "обеспечения работы приложения;"
+          },
+          {
+            "type": "bullet",
+            "text": "сохранения пользовательских настроек и прогресса;"
+          },
+          {
+            "type": "bullet",
+            "text": "показа рекламы;"
+          },
+          {
+            "type": "bullet",
+            "text": "оценки эффективности рекламы;"
+          },
+          {
+            "type": "bullet",
+            "text": "обеспечения стабильности и безопасности работы приложения;"
+          },
+          {
+            "type": "bullet",
+            "text": "выполнения требований законодательства."
+          }
+        ]
+      },
+      {
+        "title": "5. Передача данных сторонним сервисам",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Разработчик самостоятельно не продаёт персональные данные пользователей."
+          },
+          {
+            "type": "paragraph",
+            "text": "Отдельные данные могут передаваться сторонним сервисам, встроенным в приложение, в частности рекламным SDK, если это необходимо для их работы."
+          },
+          {
+            "type": "paragraph",
+            "text": "Обработка такой информации осуществляется соответствующими сервисами в рамках их собственных правил конфиденциальности."
+          }
+        ]
+      },
+      {
+        "title": "6. Разрешения устройства",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Если конкретному приложению требуется доступ к функциям устройства, например камере, файлам, уведомлениям или другим возможностям, такой доступ запрашивается только для реализации соответствующей функции приложения."
+          },
+          {
+            "type": "paragraph",
+            "text": "Отказ от предоставления разрешения может ограничить работу только той функции, для которой оно требуется."
+          }
+        ]
+      },
+      {
+        "title": "7. Безопасность",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Разработчик принимает разумные меры для защиты информации, используемой приложениями."
+          },
+          {
+            "type": "paragraph",
+            "text": "Yandex Mobile Ads SDK, согласно документации Яндекса, передаёт поддерживаемые им пользовательские данные через защищённое HTTPS/TLS-соединение. Яндекс Реклама"
+          }
+        ]
+      },
+      {
+        "title": "8. Изменения Политики",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Политика может периодически обновляться."
+          },
+          {
+            "type": "paragraph",
+            "text": "Актуальная версия публикуется на странице Разработчика или по ссылке, указанной в карточке приложения."
+          }
+        ]
+      },
+      {
+        "title": "9. Контакты",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "По вопросам, связанным с работой приложений или настоящей Политикой:"
+          },
+          {
+            "type": "paragraph",
+            "text": "Разработчик: Демехов Никита Вячеславович\nСтатус: Самозанятый, РФ\nEmail: Freezy1303@yandex.ru"
+          }
+        ]
+      }
+    ]
+  },
+  "en": {
+    "title": "Privacy policy",
+    "updated": "Last updated: October 15, 2026",
+    "intro": "This Privacy Policy describes how information is processed when using mobile applications developed by the self-employed developer Nikita Vyacheslavovich Demekhov (the “Developer”).",
+    "sections": [
+      {
+        "title": "1. General provisions",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The Developer respects users’ privacy and seeks to minimize data collection."
+          },
+          {
+            "type": "paragraph",
+            "text": "Unless expressly stated otherwise in a particular application, the Developer does not independently collect or store personal data such as names, addresses, telephone numbers, bank card details, or other information that directly identifies a user."
+          }
+        ]
+      },
+      {
+        "title": "2. Local application data",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Some applications may save data on the user’s device that is necessary for the application to work, for example:"
+          },
+          {
+            "type": "bullet",
+            "text": "settings;"
+          },
+          {
+            "type": "bullet",
+            "text": "progress;"
+          },
+          {
+            "type": "bullet",
+            "text": "activity history;"
+          },
+          {
+            "type": "bullet",
+            "text": "favorites;"
+          },
+          {
+            "type": "bullet",
+            "text": "test results;"
+          },
+          {
+            "type": "bullet",
+            "text": "other local application data."
+          },
+          {
+            "type": "paragraph",
+            "text": "This information is stored on the user’s device and is not transmitted to the Developer unless the application’s functionality provides otherwise."
+          }
+        ]
+      },
+      {
+        "title": "3. Advertising services",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Applications may use the Yandex Mobile Ads SDK / Yandex Advertising Network to display advertisements."
+          },
+          {
+            "type": "paragraph",
+            "text": "The advertising SDK may automatically process technical information needed to display and configure advertisements and measure their effectiveness. In particular, with the relevant permissions, it may use the device’s advertising identifier and other device identifiers. Yandex Advertising"
+          },
+          {
+            "type": "paragraph",
+            "text": "This processing is performed directly by the third-party service in accordance with its own rules and policies."
+          },
+          {
+            "type": "paragraph",
+            "text": "In its standard configuration, the Yandex Mobile Ads SDK does not give the Developer access to the contents of users’ private messages, contacts, photos, documents, or other personal data. Yandex Advertising"
+          }
+        ]
+      },
+      {
+        "title": "4. Purposes of information use",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Information may be used to:"
+          },
+          {
+            "type": "bullet",
+            "text": "operate the application;"
+          },
+          {
+            "type": "bullet",
+            "text": "save user settings and progress;"
+          },
+          {
+            "type": "bullet",
+            "text": "display advertisements;"
+          },
+          {
+            "type": "bullet",
+            "text": "measure advertising effectiveness;"
+          },
+          {
+            "type": "bullet",
+            "text": "maintain the stability and security of the application;"
+          },
+          {
+            "type": "bullet",
+            "text": "comply with legal requirements."
+          }
+        ]
+      },
+      {
+        "title": "5. Transfer to third-party services",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The Developer does not independently sell users’ personal data."
+          },
+          {
+            "type": "paragraph",
+            "text": "Certain data may be transmitted to third-party services integrated into an application, in particular advertising SDKs, where this is necessary for them to operate."
+          },
+          {
+            "type": "paragraph",
+            "text": "This information is processed by the relevant services under their own privacy rules."
+          }
+        ]
+      },
+      {
+        "title": "6. Device permissions",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "If a particular application needs access to device functions, such as the camera, files, notifications, or other capabilities, this access is requested only to implement the corresponding application feature."
+          },
+          {
+            "type": "paragraph",
+            "text": "Declining a permission may limit only the feature that requires it."
+          }
+        ]
+      },
+      {
+        "title": "7. Security",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The Developer takes reasonable measures to protect information used by the applications."
+          },
+          {
+            "type": "paragraph",
+            "text": "According to Yandex documentation, the Yandex Mobile Ads SDK transmits the user data it supports over a secure HTTPS/TLS connection. Yandex Advertising"
+          }
+        ]
+      },
+      {
+        "title": "8. Policy changes",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "This Policy may be updated from time to time."
+          },
+          {
+            "type": "paragraph",
+            "text": "The current version is published on the Developer’s page or at the link provided in the application listing."
+          }
+        ]
+      },
+      {
+        "title": "9. Contact details",
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "For questions about the applications or this Policy:"
+          },
+          {
+            "type": "paragraph",
+            "text": "Developer: Nikita Vyacheslavovich Demekhov\nStatus: Self-employed, Russian Federation\nEmail: Freezy1303@yandex.ru"
+          }
+        ]
+      }
+    ]
+  }
+}

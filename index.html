@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <base href="/">
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0d0f16">
+  <meta name="description" content="DEMEKHOV.DEV — разработка мобильных и веб-приложений. Приложения в RuStore, контакты разработчика и политика конфиденциальности.">
+  <meta property="og:title" content="DEMEKHOV.DEV — приложения с пользой">
+  <meta property="og:description" content="Независимая разработка мобильных и веб-приложений. Android · Flutter · Web.">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="ru_RU">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="DEMEKHOV.DEV">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="manifest" href="manifest.json">
+  <title>DEMEKHOV.DEV — приложения с пользой</title>
+  <style>
+    html,body{margin:0;background:#0d0f16;color:#f2f1f7}
+    #loading{position:fixed;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;background:#0d0f16;font-family:Arial,sans-serif;z-index:10}
+    #loading strong{font-size:22px;letter-spacing:-.5px}#loading strong span{color:#b9acff}
+    .loading-track{height:2px;width:150px;background:#292c39;margin-top:25px;overflow:hidden}
+    .loading-track:after{content:'';display:block;height:100%;width:50%;background:#b9acff;animation:loading 1.5s ease-in-out infinite}
+    @keyframes loading{from{transform:translateX(-100%)}to{transform:translateX(300%)}}
+    #load-error{max-width:300px;text-align:center;font-size:14px;line-height:1.7;color:#9b9daf}a{color:#b9acff}
+    @media(prefers-reduced-motion:reduce){.loading-track:after{animation:none;width:100%}}
+  </style>
+</head>
+<body>
+  <div id="loading" role="status" aria-label="Загрузка сайта">
+    <strong>DEMEKHOV<span>.DEV</span></strong>
+    <div class="loading-track"></div>
+    <p id="load-error" hidden>Не удалось запустить сайт. Обновите страницу или откройте <a href="privacy.html">политику конфиденциальности</a>.</p>
+  </div>
+  <noscript><style>#loading{display:none}</style><p style="padding:32px;font-family:Arial,sans-serif">Для интерактивной страницы нужен JavaScript. <a href="privacy.html">Политика конфиденциальности доступна здесь</a>.</p></noscript>
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>
